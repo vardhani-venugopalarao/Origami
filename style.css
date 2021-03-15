@@ -1,0 +1,39 @@
+.menu{
+    padding:1%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color:rgba(0, 0, 0, 0.788);
+    color: white;
+    margin-bottom: 0%;
+}
+.bodyImg{
+    margin-top:0%;
+    background-color:rgba(0, 0, 0, 0.466);
+    color: white;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0%;
+}
+.origami{
+    border: solid;
+    border-radius: 20px;
+    background:mintcream;
+    padding: 0%;
+    margin-left: 2.5%;
+    margin-bottom: 2.5%;
+    width:30%;
+}
+body{
+    background-color:ivory;
+    margin: 0px;
+}
+
+.menu a:link{
+    color:#ffffff;
+}
+
+.menu a:visited{
+    color:wheat;
+}
